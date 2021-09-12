@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Raoni Lourenco"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "370 Jay Street, Brooklyn, NY"
-  employer         : "New York University"
+  bio              : "Postdoctoral Research Fellow // Center for Responsible AI"
+  location         : "NYU Tandon School of Engineering // 370 Jay Street // Brooklyn, NY 11201"
+  employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=44blQGIAAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/raonilourenco/"
+  linkedin         : "raonilourenco"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
