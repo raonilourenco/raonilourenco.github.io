@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Raoni Lourenco"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow // Center for Responsible AI"
-  location         : "NYU Tandon School of Engineering // 370 Jay Street // Brooklyn, NY 11201"
-  employer         : ""
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Postdoctoral Research Fellow <br/> Center for Responsible AI"
+  employer_1       : "NYU Tandon School of Engineering"
+  employer_wb_1    : "https://www.springernature.com/gp"
+  address_1        : "370 Jay Street, 1132"
+  address_2        : "Brooklyn, NY 11201"
   googlescholar    : "https://scholar.google.com/citations?user=44blQGIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
