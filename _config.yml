@@ -23,7 +23,7 @@ author:
   name             : "Raoni Lourenco"
   avatar           : "headshot.jpg"
   bio              : "Postdoctoral Research Associate"
-  employer       : "University of Luxembourg"
+  employer         : "University of Luxembourg"
   employer_wb_1    : "https://wwwen.uni.lu/snt"
   address_1        : "29 Av. John F. Kennedy"
   address_2        : "Luxembourg, Luxembourg"
@@ -37,11 +37,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7774-4487"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
