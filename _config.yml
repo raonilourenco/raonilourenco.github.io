@@ -21,7 +21,7 @@ repository               : "raonilourenco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Raoni Lourenco"
-  avatar           : "headshot.jpg"
+  avatar           : "profile.png"
   bio              : "Postdoctoral Research Associate"
   employer         : "University of Luxembourg"
   employer_wb_1    : "https://wwwen.uni.lu/snt"
@@ -31,7 +31,7 @@ author:
   github           : "raonilourenco"
   linkedin         : "raonilourenco"
   pronouns         : "he/his"  
-  location         : "Earth"
+  location         : "Luxembourg"
   uri              : # URL
   email            : "raoni.lourenco@uni.lu" 
 
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "raoni.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
