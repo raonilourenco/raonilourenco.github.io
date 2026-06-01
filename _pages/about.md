@@ -13,7 +13,7 @@ I also hold an M.S. in Information Engineering from the Federal University of AB
 My research lies at the intersection of data management, artificial intelligence, and software systems, with a focus on:
 
  - Ethical and responsible AI
- - Debugging of data and machine learning pipelines
+ - Debugging of machine learning pipelines
  - Data debugging and provenance
  - Automated Machine Learning (AutoML)
 
