@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Raoni Lourenco"
 title_separator          : "-"
 name                     : &name "Raoni Lourenco"
-description              : &description "Postdoctoral Research Associate"
+description              : &description "Research Associate at University of Luxembourg/Snt"
 url                      : https://raonilourenco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raonilourenco.github.io"
@@ -22,18 +22,18 @@ repository               : "raonilourenco.github.io"
 author:
   name             : "Raoni Lourenco"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Associate"
-  employer         : "University of Luxembourg"
+  bio              : "Research Associate at University of Luxembourg/Snt"
+  employer         : "University of Luxembourg/Snt"
   employer_wb_1    : "https://wwwen.uni.lu/snt"
-  address_1        : "29 Av. John F. Kennedy"
-  address_2        : "Luxembourg, Luxembourg"
+  address_1        : ""
+  address_2        : ""
   googlescholar    : "https://scholar.google.com/citations?user=44blQGIAAAAJ&hl=en"
   github           : "raonilourenco"
   linkedin         : "raonilourenco"
   pronouns         : "he/his"  
   location         : "Luxembourg"
   uri              : # URL
-  email            : "raoni.lourenco@uni.lu" 
+  email            : "raonilourenco@proton.me" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -215,7 +215,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
