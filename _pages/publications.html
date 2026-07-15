@@ -26,6 +26,21 @@ author_profile: true
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
+
+  {%- comment -%}
+  Render publications that don't match any configured category (uncategorized or missing category)
+  This ensures the CV lists match the Publications page when categories are defined.
+  {%- endcomment -%}
+  {% assign other_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category == nil or site.publication_category[post.category] == nil %}
+      {% unless other_shown %}
+        <h2>Other publications</h2><hr />
+        {% assign other_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
