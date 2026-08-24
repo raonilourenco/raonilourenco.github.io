@@ -15,11 +15,13 @@ Contact
 
 Interests
 =========
+* Artificial Intelligence 
+* Responsible Data Science
 * Data Management
 * Pipeline Debugging
 * Automated Machine Learning
 * Big Data
-* Industry 4.0
+* Industry 4.0 and 5.0
 
 Education
 ======
@@ -128,6 +130,12 @@ Open-Source Systems
 
 Service and leadership
 ======
+* 2026 – Current: Program Committee Member – Research Track
+  * IEEE International Conference on Big Data (BigData)
+    
+* 2026 – Current: Program Committee Member – Research Track
+  * AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+    
 * 2021 – Current: Program Committee Member – Research Track
   * International Conference on Management of Data (SIGMOD)
 
